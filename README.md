@@ -7,7 +7,7 @@ const response = {
     name: "Ali Ahmadi",
     nickname: "</Ctrl+Z>",
     birthDay: "12 Mar.",
-    skills: "js",
+    skills: "react",
   }
 };
 ```
