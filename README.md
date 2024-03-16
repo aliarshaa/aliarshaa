@@ -4,7 +4,7 @@
 const response = {
   status: 202,
   data: {
-    name: "Ali Ahmadi",
+    name: "Ali Arsha",
     nickname: "</Ctrl+Z>",
     birthDay: "12 Mar.",
     skills: "react",
