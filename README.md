@@ -6,7 +6,7 @@ const response = {
   data: {
     name: "Ali Arsha",
     nickname: "</Ctrl+Z>",
-    birthDay: "12 Mar.",
+    birthDay: "12 Mar 2005",
     skills: "react",
   }
 };
